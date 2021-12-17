@@ -11,5 +11,5 @@ vgg.py is the main programme of vgg model
 image_0002,jpg is the test image for vgg.py model
 
 
-before run the code, it is necessary to install packages eg, keras,numpy,sklearn,matpolotlib,OpenCV,pickle.
-then use shift+command+e to run code line by line and we can get the results
+Before run the code, it is necessary to install packages eg, keras,numpy,sklearn,matpolotlib,OpenCV,pickle.
+Then use shift+command+e to run code line by line and we can get the results
