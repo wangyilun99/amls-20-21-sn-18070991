@@ -13,3 +13,4 @@ image_0002,jpg is the test image for vgg.py model
 
 Before run the code, it is necessary to install packages eg, keras,numpy,sklearn,matpolotlib,OpenCV,pickle.
 Then use shift+command+e to run code line by line and we can get the results
+The trainig time of vgg model is nearly 2hours.
